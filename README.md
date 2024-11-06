@@ -98,4 +98,4 @@ Il progetto ha fornito preziose intuizioni su come i fattori specifici influenzi
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Boardgamegeek_logo.png" width="100" alt="BoardGameGeek logo">
 </p>
 
-**Sviluppato con ❤️ da [Nome del Team o dello Sviluppatore]**
+**Sviluppato con ❤️ da [Riccardo Scaringi]**
